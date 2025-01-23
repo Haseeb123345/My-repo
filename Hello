@@ -1,6 +1,10 @@
 Console.WriteLine("My name is Haseeb");
+ First-semester
 Console.WriteLine("My roll umber is 24-ST-090")
 second-semester
 Console.WriteLine("Second semester probility and statistic, functional English, Software development, object Oriented");
 Console.WriteLine("First semester computer programming, information technology skill, islamiyat");
 First-semester
+Console.WriteLine("My roll umber is 24-ST-090");
+Console.WriteLine("Fsc subjects Math, Urdu, English, Computer, Islmiyat, Physics, Chemistry");
+fsc-subjects
